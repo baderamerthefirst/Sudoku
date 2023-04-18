@@ -17,6 +17,7 @@ Styling
 The game has a dark theme with white font color. The board, cells, and buttons have a distinctive green color. The cells are responsive, adapting to different screen sizes.
 
 
+https://user-images.githubusercontent.com/95437422/232828601-6327a8a4-63be-464b-bcb0-83aec3432d81.png
 
 
 # Getting Started with Create React App
